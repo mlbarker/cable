@@ -88,7 +88,7 @@ namespace cable_poc.Characters
             
             if (HitPoints > 0)
             {
-                IsAlive = true;
+                Alive = true;
             }
         }
 

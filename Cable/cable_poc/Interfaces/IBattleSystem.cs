@@ -1,74 +1,50 @@
 //-----–----------–------------------
 // ImperfectlyCoded © 2018
 //
-// TurnBasedBattle.cs
+// IBattleSystem.cs
 //-----–----------–------------------
-namespace cable_poc.BattleSystems
+namespace cable_poc.Interfaces
 {
     using System;
     using System.Collections.Generic;
     using System.Linq;
     using System.Text;
     using System.Threading.Tasks;
-    using Interfaces;
+    using Characters;
     
     /// <summary>
-    /// Basic turned based battle system.
+    /// Battle system interface.
     /// </summary>
-    public class TurnBasedBattle : IBattleSystem
+    public interface IBattleSystem
     {
-        #region Constructors
-        
-        public TurnBasedBattle()
-        {
-        }
-        
-        #endregion
-        
-        #region IBattleSystem Methods
-        
         /// <summary>
         /// Starting up the battle with fighters
         /// </summary>
-        public void Initialize(List<BaseCharacter> characters)
-        {
-        }
+        void Initialize(List<BaseCharacter> characters);
         
         /// <summary>
         /// Readies the current turn
         /// </summary>
-        public void ReadyTurn()
-        {
-        }
+        void ReadyTurn();
         
         /// <summary>
         /// Performs the current turn
         /// </summary>
-        public void PerformTurn()
-        {
-        }
+        void PerformTurn();
         
         /// <summary>
         /// Ends the current turn
         /// </summary>
-        public void EndTurn()
-        {
-        }
+        void EndTurn();
         
         /// <summary>
         /// Performs battle ending procedures
         /// </summary>
-        public void EndBattle()
-        {
-        }
+        void EndBattle();
         
         /// <summary>
         /// End of battle results
         /// </summary>
-        public void Results()
-        {
-        }
-        
-        #endregion
+        void Results();
     }
 }

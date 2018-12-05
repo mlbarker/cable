@@ -1,34 +1,30 @@
 //-----–----------–------------------
 // ImperfectlyCoded © 2018
 //
-// IGame.cs
+// ICommand.cs
 //-----–----------–------------------
-namespace striker_poc.Interfaces
+namespace cable_poc.Interfaces
 {
     using System;
     using System.Collections.Generic;
     using System.Linq;
     using System.Text;
     using System.Threading.Tasks;
-    
+
     /// <summary>
-    /// The interface for all game classes
+    /// The interface for the command pattern
     /// </summary>
-    public interface IGame
+    public interface ICommand
     {
         /// <summary>
-        /// Starts up game objects prior to running the game.
+        /// Executes the command on the actor
         /// </summary>
-        void Initialize();
-        
+        /// <param name="actor">The actor that will execute the command</param>
+        //void Execute(Actor actor);
+
         /// <summary>
-        /// Runs the game.
+        /// Checks to see if the command is null
         /// </summary>
-        void Run();
-        
-        /// <summary>
-        /// Shut downs all game objects.
-        /// </summary>
-        void Shutdown();
+        //bool IsNull();
     }
 }

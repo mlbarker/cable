@@ -10,7 +10,6 @@ namespace striker_poc.Interfaces
     using System.Linq;
     using System.Text;
     using System.Threading.Tasks;
-    using Mounds;
 
     /// <summary>
     /// The interface for all jobs for the moles

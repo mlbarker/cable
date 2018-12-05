@@ -1,0 +1,11 @@
+C:\Users\Swashy-B\Documents\GitHub\cable\Cable\cable_poc\obj\Debug\netcoreapp2.0\cable_poc.csprojAssemblyReference.cache
+C:\Users\Swashy-B\Documents\GitHub\cable\Cable\cable_poc\obj\Debug\netcoreapp2.0\cable_poc.csproj.CoreCompileInputs.cache
+C:\Users\Swashy-B\Documents\GitHub\cable\Cable\cable_poc\obj\Debug\netcoreapp2.0\cable_poc.AssemblyInfoInputs.cache
+C:\Users\Swashy-B\Documents\GitHub\cable\Cable\cable_poc\obj\Debug\netcoreapp2.0\cable_poc.AssemblyInfo.cs
+C:\Users\Swashy-B\Documents\GitHub\cable\Cable\cable_poc\bin\Debug\netcoreapp2.0\cable_poc.deps.json
+C:\Users\Swashy-B\Documents\GitHub\cable\Cable\cable_poc\bin\Debug\netcoreapp2.0\cable_poc.runtimeconfig.json
+C:\Users\Swashy-B\Documents\GitHub\cable\Cable\cable_poc\bin\Debug\netcoreapp2.0\cable_poc.runtimeconfig.dev.json
+C:\Users\Swashy-B\Documents\GitHub\cable\Cable\cable_poc\bin\Debug\netcoreapp2.0\cable_poc.dll
+C:\Users\Swashy-B\Documents\GitHub\cable\Cable\cable_poc\bin\Debug\netcoreapp2.0\cable_poc.pdb
+C:\Users\Swashy-B\Documents\GitHub\cable\Cable\cable_poc\obj\Debug\netcoreapp2.0\cable_poc.dll
+C:\Users\Swashy-B\Documents\GitHub\cable\Cable\cable_poc\obj\Debug\netcoreapp2.0\cable_poc.pdb

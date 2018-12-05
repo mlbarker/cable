@@ -3,7 +3,7 @@
 //
 // Game.cs
 //-----–----------–------------------
-namespace cable_poc.Game
+namespace cable_poc.GameLoop
 {
     using System;
     using System.Collections.Generic;
